@@ -1,0 +1,12 @@
+Created by: Chris Kam
+Date: 5/22/2013
+
+Simple C++ solver for the fantastic game, Letterpress, by Loren Brichter.
+
+To compile:
+g++ main.cpp -o letterpress
+
+To run:
+./letterpress --letters=yourlettershere --req=requiredlettershere
+
+Answers will be written out to answer.txt in this directory.
