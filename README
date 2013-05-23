@@ -3,6 +3,10 @@ Date: 5/22/2013
 
 Simple C++ solver for the fantastic game, Letterpress, by Loren Brichter.
 
+Files:
+main.cpp
+en.txt: Letterpress word list
+
 To compile:
 g++ main.cpp -o letterpress
 
